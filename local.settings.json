@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "CosmosDBString": "DefaultEndpointsProtocol=https;AccountName=xxxxxxx;",
+    "Default404Url": "https://www.51azure.cloud",
+    "DefaultExceptionUrl": "https://www.51azure.cloud"
+    
+
+
+  }
+}
